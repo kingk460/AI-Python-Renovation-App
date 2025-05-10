@@ -1,2 +1,2 @@
 # AI-Python-renovation-App
-application that uses Gemini API to aid in pdf creation of home renovation project plan
+An application that uses the Gemini API to aid in the PDF creation of a home renovation project plan
